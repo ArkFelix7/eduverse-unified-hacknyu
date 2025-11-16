@@ -2,7 +2,7 @@
 
 > **HackNYU 2025 Submission** | Transforming Education Through Intelligent AI Integration
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://hacknyu-flax.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://eduverse.aivialabs.com)
 [![Built with React](https://img.shields.io/badge/React-19-blue)](https://react.dev)
 [![Powered by Gemini](https://img.shields.io/badge/AI-Google%20Gemini-orange)](https://deepmind.google/technologies/gemini/)
 [![Database](https://img.shields.io/badge/Database-Supabase-green)](https://supabase.com)
@@ -487,9 +487,9 @@ Solves genuine pain points in education with measurable improvements in learning
 
 ## 📞 Contact & Support
 
-**Live Demo**: [https://hacknyu-flax.vercel.app](https://hacknyu-flax.vercel.app)
+**Live Demo**: [https://eduverse.aivialabs.com](https://eduverse.aivialabs.com)
 
-**Repository**: [github.com/ArkFelix7/hacknyu](https://github.com/ArkFelix7/hacknyu)
+**Repository**: [github.com/ArkFelix7/eduverse-unified-hacknyu](https://github.com/ArkFelix7/eduverse-unified-hacknyu)
 
 **Issues**: Create issue on GitHub for bugs or feature requests
 
@@ -501,7 +501,7 @@ Solves genuine pain points in education with measurable improvements in learning
 
 ### 🎓 EduVerse - Where AI Meets Education
 
-**Built with ❤️ for HackNYU 2026**
+**Built with ❤️ for HackNYU 2025**
 
 *Transforming how students learn, one AI interaction at a time.*
 
